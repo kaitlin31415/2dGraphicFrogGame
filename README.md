@@ -5,4 +5,4 @@ The goal of the game is to avoid the bombs and collect the pies in order to coll
 
 To Run:
 1. Download Zip
-2. Open Display.html 
+2. Open ```Display.html ```
